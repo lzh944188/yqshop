@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yqshop-api/yqshop-api.iml" filepath="$PROJECT_DIR$/yqshop-api/yqshop-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqshop-consummer/yqshop-consummer.iml" filepath="$PROJECT_DIR$/yqshop-consummer/yqshop-consummer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqshop-euraka/yqshop-euraka.iml" filepath="$PROJECT_DIR$/yqshop-euraka/yqshop-euraka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqshop-parent.iml" filepath="$PROJECT_DIR$/yqshop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yqshop-provider/yqshop-provider.iml" filepath="$PROJECT_DIR$/yqshop-provider/yqshop-provider.iml" />
+    </modules>
+  </component>
+</project>
